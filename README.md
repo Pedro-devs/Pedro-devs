@@ -1,6 +1,6 @@
 ### Olá eu sou Pedro Andreatti, desenvolvedor de software!
 
-- 📚 Estudando: Análise e Desenvolvimento de Sistemas (2/5).
+- 📚 Estudando: Análise e Desenvolvimento de Sistemas (3/5).
 - 🎯 Objetivo atual: Primeira experiência profissional.
 
 <div align="center">
