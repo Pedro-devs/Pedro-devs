@@ -1,4 +1,4 @@
 ### Olá eu sou Pedro Andreatti, desenvolvedor de software!
 
-- Estudo: Análise e Desenvolvimento de Sistemas (4/5).
-- Objetivo atual: Primeira experiência profissional.
+- Formado em Técnico de Análise e Desenvolvimento de Sistemas.
+- Professor e Coordenador(PAEET) de curso Técnico de tecnologia de escolas estaduais
